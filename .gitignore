@@ -1,0 +1,12 @@
+# Local toolchains, deployment evidence, backups, logs and scratch files
+/work/
+# Generated binaries and archives may contain local build/deployment metadata
+/dist/
+.env
+.env.*
+*.pem
+*.key
+*.log
+.DS_Store
+__pycache__/
+*.pyc
